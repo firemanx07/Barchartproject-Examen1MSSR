@@ -2,7 +2,7 @@
 
 > BarChart Listing project with prompt panel to add New data using Java Swing and SqlLite as DataBase with
 Maven. 
-![image](https://user-images.githubusercontent.com/49232518/148747256-45eb2819-9732-41bc-84ea-9e099c36c5d3.png)
+![image](https://user-images.githubusercontent.com/49232518/148747447-d9cd6dfd-5935-47c3-bf6e-faa12001e310.png)
 
 
 >this project is a direct application for JDBC-SQL connector ,Graphics with Java , Oriented Objects and Java Swing  as Learned in POO course (Bonus : Threads) 
